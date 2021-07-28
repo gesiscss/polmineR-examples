@@ -1,2 +1,2 @@
-install.packages("tidyverse")
-install.packages("rmarkdown")
+install.packages("RcppCWB")
+install.packages("polmineR")
