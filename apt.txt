@@ -1,0 +1,9 @@
+libglib2.0-dev
+libssl-dev
+libcurl4-openssl-dev
+libxml2-dev
+libprotobuf-dev
+libsodium-dev
+libgsl0-dev
+openjdk-8-jdk
+openjdk-8-jre

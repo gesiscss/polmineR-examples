@@ -1,0 +1,7 @@
+install.packages("RcppCWB")
+install.packages("polmineR")
+install.packages("RCurl")
+install.packages("zen4R")
+install.packages("cwbtools")
+install.packages("topicmodels")
+install.packages("europarl", repos = "http://polmine.github.io/drat")
