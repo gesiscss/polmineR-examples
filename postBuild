@@ -1,3 +1,4 @@
 #!/bin/bash
 R CMD javareconf -e
 Rscript install_.R
+Rscript -e 'europarl::europarl_download()'
