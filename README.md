@@ -1,1 +1,2 @@
-# test-out-R-things
+# polmineR-examples
+
