@@ -1,4 +1,11 @@
 #!/bin/bash
+
 R CMD javareconf -e
+
 Rscript install_.R
+
+# Prevent timeout while downloading the dataset
 Rscript -e 'europarl::europarl_download()'
+
+# https://github.com/PolMine/GermaParl/issues/21
+Rscript install_GermaParl.R
