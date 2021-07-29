@@ -6,6 +6,3 @@ install.packages(pkgs=pkgFile, type="source", repos=NULL)
 
 unlink(pkgFile)
 
-library(GermaParl)
-
-GermaParl::germaparl_download_corpus()
