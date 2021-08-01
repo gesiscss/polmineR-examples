@@ -7,3 +7,4 @@ libsodium-dev
 libgsl0-dev
 openjdk-8-jdk
 openjdk-8-jre
+htop
